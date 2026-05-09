@@ -1,0 +1,70 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-D",
+      "_DEBUG",
+      "-D_DEBUG",
+      "-fsanitize=address,undefined",
+      "-g",
+      "-o",
+      "obj/fat_calc.o",
+      "src/fat_calc.c"
+    ],
+    "directory": "/home/kbw/project/cpp_c/my_fat32_dirver",
+    "file": "/home/kbw/project/cpp_c/my_fat32_dirver/src/fat_calc.c",
+    "output": "/home/kbw/project/cpp_c/my_fat32_dirver/obj/fat_calc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-D",
+      "_DEBUG",
+      "-D_DEBUG",
+      "-fsanitize=address,undefined",
+      "-g",
+      "-o",
+      "obj/fat_handle.o",
+      "src/fat_handle.c"
+    ],
+    "directory": "/home/kbw/project/cpp_c/my_fat32_dirver",
+    "file": "/home/kbw/project/cpp_c/my_fat32_dirver/src/fat_handle.c",
+    "output": "/home/kbw/project/cpp_c/my_fat32_dirver/obj/fat_handle.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-D",
+      "_DEBUG",
+      "-D_DEBUG",
+      "-fsanitize=address,undefined",
+      "-g",
+      "-o",
+      "obj/fat_iter.o",
+      "src/fat_iter.c"
+    ],
+    "directory": "/home/kbw/project/cpp_c/my_fat32_dirver",
+    "file": "/home/kbw/project/cpp_c/my_fat32_dirver/src/fat_iter.c",
+    "output": "/home/kbw/project/cpp_c/my_fat32_dirver/obj/fat_iter.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-D",
+      "_DEBUG",
+      "-D_DEBUG",
+      "-fsanitize=address,undefined",
+      "-g",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/kbw/project/cpp_c/my_fat32_dirver",
+    "file": "/home/kbw/project/cpp_c/my_fat32_dirver/src/main.c",
+    "output": "/home/kbw/project/cpp_c/my_fat32_dirver/obj/main.o"
+  }
+]

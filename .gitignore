@@ -1,2 +1,4 @@
 setup_bash/
 .cache/
+bin/
+obj/

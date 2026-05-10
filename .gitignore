@@ -2,3 +2,4 @@ setup_bash/
 .cache/
 bin/
 obj/
+compile_commands.json
